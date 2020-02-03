@@ -1,0 +1,9 @@
+<html>
+<em> This is Emphasized text</em><br>
+<strong> This is Strong text </strong><br>
+<bdo> This is bi directional text </bdo><br>
+<q> This is Quotation text </q><br>
+<address> This is an address </address><br>
+
+
+</html>

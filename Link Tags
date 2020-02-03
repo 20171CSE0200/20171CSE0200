@@ -1,0 +1,12 @@
+<html>
+<style>
+a {
+font-weight: bold;
+font-family: courier;}
+</style>
+<a href="https://presidencyuniversity.in"> My University</a><br>
+<a href="/home/6CSE3/Desktop/A Folder/Templates/Table Template 1">My Education<a><br>
+<a href="/home/6CSE3/Desktop/A Folder/Lab/Time table using Tables">My Time Table<a><br>
+<a href="/home/6CSE3/Desktop/A Folder/Lab/Resume">My Resume<a><br>
+<a href="mailto:201710100374@gmail.com">Send an Email</a>
+</html>
