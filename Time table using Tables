@@ -1,0 +1,89 @@
+<html>
+<style>
+td{
+text-align: center;
+padding: 8px;}
+th{
+text-align: center;
+background-color: #99ccff;}
+</style>
+<table border = "1" width = "100%" cellspacing="0">
+  <tr>
+    <th>Hour</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>  
+ </tr>
+ <tr>
+  <tr>
+    <th>Day/Period</th>
+    <th>9:00-10:00 AM</th>
+    <th>10:00-11:00 AM</th>
+    <th>11:00-11:15 AM</th>
+    <th>11:15-12:10 PM</th>
+    <th>12:10-1:05 PM</th>
+    <th>1:05-2:00 PM</th>
+    <th>2:00-3:00 PM</th>
+    <th>3:00-4:00 PM</th>  
+ </tr>
+  <tr>
+    <th bgcolor=#99ccff>Monday</th>
+    <td>Dig Ent.</td>
+    <td>GTC</td>
+    <td bgcolor=#ff5c33 rowspan=6>Tea</td>
+    <td>DE 2</td>
+    <td bgcolor=#ff5c33 rowspan=3>Lunch</td>
+    <td>IT</td>
+    <td colspan=2>IT LAB</td>
+  </tr>
+  <tr>
+    <th bgcolor=#99ccff>Tuesday</th>
+    <td colspan=2>IT LAB</td>
+    <td>Dig Ent.</td>
+    <td>GTC</td>
+    <td colspan=2>AT</td>
+  </tr>
+
+  <tr>
+    <th bgcolor=#99ccff>Wednesday</th>
+    <td colspan=2>AT</td>
+    <td>DE 2</td>
+    <td>GTC</td>
+    <td>OOAD</td>
+    <td bgcolor=#ff9900>Library</td>
+  </tr>
+
+  <tr>
+    <th bgcolor=#99ccff>Thursday</th>
+    <td>Dig Ent.</td>
+    <td>GTC</td>
+    <td>OOAD</td>
+    <td>DE 2</td>
+    <td bgcolor=#ff5c33>Lunch</td>
+    <td colspan=2>NP Lab</td>
+  </tr>
+
+  <tr>
+    <th bgcolor=#99ccff>Friday</th>
+    <td colspan=2>NP LAB</td>
+    <td>Dig Ent.</td> 
+    <td bgcolor=#ff5c33>Lunch</td>
+    <td>GTC</td>
+    <td>OOAD</td>
+    <td bgcolor=#ff9900>CCH</td>
+  </tr>
+  <tr>
+    <th bgcolor=#99ccff>Saturday</th>
+    <td colspan=2 bgcolor=#e3a60b>Active Learning</td>
+    <td colspan=2 bgcolor=#e3a60b>Active Learning</td>
+  </tr>
+
+
+</table>
+<html>
+
