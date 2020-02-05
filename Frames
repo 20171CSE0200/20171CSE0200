@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>HTML Frames</title>
+</head>
+<frameset cols="13%,70%,**">
+	<frame name="top" src="/home/6CSE3/Desktop/A Folder/Lab/Link Tags"/>
+	<frame name="main" src="/home/6CSE3/Desktop/A Folder/Lab/Resume"/>
+	<frame name="bottom" src="/home/6CSE3/Desktop/A Folder/Lab/Definition List with List of List"/>
+
+	<noframes>
+	<body> You browser doesnot support frames </body>
+	</noframes>
+</framset>
+</html>

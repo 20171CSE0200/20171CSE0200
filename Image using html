@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> Images using HTML </title>
+<head>
+<style>
+img {
+width: 50%;
+height: 75%;
+border:30;
+
+}
+
+</style>
+<body>
+<h3>This is a lion</h3>
+<img src = "/home/6CSE3/Desktop/lion.jpeg";>
+</body>
+<h3>This is a wolf</h3>
+<img src = "/home/6CSE3/Desktop/wold.jpg">
+</html>
