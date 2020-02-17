@@ -1,0 +1,94 @@
+<html>
+<img src = "/home/6CSE3/Desktop/A Folder/Lab/images/1.jpeg" align="right" float="right" border= "3" width="7%" >
+<head>
+<style>
+body{
+background-image:url('/home/6CSE3/Desktop/43.jpg');
+background-size:100% 100%;
+</style>
+<title>Resume</title>
+</head>
+<left><h3>AJAY CHANDRA</h3></left>
+<left><p><font size="2"><a href="mailto:201710100374@gmail.com">ajaychandra256@gmail.com</a></font></p></left>
+<left><p><font size="2">+91 - 9686700413</font></p></left>
+<body> 
+<header>
+<HR color="black">
+<u><h3>Professional Summary</h3></u>
+</header>
+<p>A good programmer,data analyst, animator and startup projects enthusiast with a passion for building websites and challenging the status. Made many innovative pojects, launched new designs and models,delivering essential information</p>
+
+<HR color="black">
+<a name="edu"><u><h3>Education</h3></u></a>
+<style>
+td,th{
+border: 1px solid #dddddd;
+text-align: center;
+padding: 8px;}
+a{
+font-weight: bold;
+font-family: verdana;
+}
+
+</style>
+<table border = "1" width = "100%">
+         <tr>
+            <th>Degree</th>
+            <th>School/College</th>
+    	    <th>Year of Passing</th>
+    	    <th>Percentage</th>
+	    
+         </tr>
+         <tr>
+            <td>10th</td>
+            <td>K. Kamraj</td>
+	    <td>2015</td>
+            <td>75</td>
+         </tr>
+         
+         <tr>
+            <td>12th</td>
+            <td>BGS International</td>
+ 	    <td>2017</td>
+            <td>75</td>
+         </tr>
+
+         <tr>
+            <td>B.Tech</td>
+            <td>Presidency University</td>
+ 	    <td>2021</td>
+            <td>75</td>
+         </tr>
+      </table>
+<HR color="black">
+<u><h3>Independent courses</h3></u>
+<div>
+<h4>Programming</h4>
+<p><font size="3">Languages learnt:
+<UL TYPE="SQUARE"><Li>Java</li>
+<Li>Python</li>
+<Li>C</li></font></p>
+</div>
+<div>
+<h4>Animaton</h4>
+<p><font size="3">Softwares Learnt:
+<UL TYPE="SQUARE"><Li>Adobe After Effects</li>
+<Li>Adobe Illustrator</li>
+<Li>Autodesk MAYA</li></font></p>
+</div>
+<HR color="black">
+<u><h3>Technical Skills</h3></u>
+<p><UL TYPE="SQUARE"><li>Adobe Package:Illustrator,After Effects,Premiere Pro.
+<li>Database operation:Oracle 8i,STATA</li>
+<li>Programming: C++, SQL, HTML, Python</p></li></ul>
+<u><h3>Links</h3></u>
+<ul>
+<li><a href="https://presidencyuniversity.in"> My University</a></li>
+<li><a href=#edu>My Education</a></li>
+<li><a href="/home/6CSE3/Desktop/A Folder/Lab/Time table using Tables">My Time Table<a></li>
+<li><a href="mailto:201710100374@gmail.com">Send an Email</a></li>
+
+
+</ul>
+</body>
+</html>
