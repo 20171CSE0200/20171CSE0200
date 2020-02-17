@@ -65,9 +65,22 @@ font-family: verdana;
 <div>
 <h4>Programming</h4>
 <p><font size="3">Languages learnt:
-<UL TYPE="SQUARE"><Li>Java</li>
-<Li>Python</li>
-<Li>C</li></font></p>
+<OL> 
+<LI> Python 
+     <UL>
+         <li> Python 1</LI>
+	 <li> Python 2</li>
+	 <li> Python 3</li>
+     </ul>
+</li>
+<LI> C
+     <UL>
+         <li> C++</LI>
+	 <li> C#</li>
+     </ul>
+</li>
+<LI> Java </LI>
+</OL>
 </div>
 <div>
 <h4>Animaton</h4>
@@ -78,9 +91,9 @@ font-family: verdana;
 </div>
 <HR color="black">
 <u><h3>Technical Skills</h3></u>
-<p><UL TYPE="SQUARE"><li>Adobe Package:Illustrator,After Effects,Premiere Pro.
-<li>Database operation:Oracle 8i,STATA</li>
-<li>Programming: C++, SQL, HTML, Python</p></li></ul>
+<p><UL TYPE="SQUARE"><li><font color="red">Adobe Package:</font>Illustrator,After Effects,Premiere Pro.
+<li><font color="red">Database operation:</font>MYSQL,STATA</li>
+<li><font color="red">Programming:</font> C++, SQL, HTML, Python</p></li></ul>
 <u><h3>Links</h3></u>
 <ul>
 <li><a href="https://presidencyuniversity.in"> My University</a></li>
