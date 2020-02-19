@@ -1,0 +1,22 @@
+<html>
+<style>
+h1,h2,h3{
+color:red;
+font-weight:normal;
+font-family:sans-serif;
+}
+#para1{
+color:violet;
+}
+.center{
+text-align:center;
+color:green;
+}
+</style>
+<h1>Hello This text will be in red</h1>
+<h3>Hello This text will be in red</h3>
+<h4>Hello This text will not be in red</h4>
+<p id="para1">hello this para will be in violet</p>
+<p>hello this para will not be in violet</p>
+<p class="center">Hello this para will in green</p>
+</html>

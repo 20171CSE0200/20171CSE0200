@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>iframes</title>
+</head>
+<body>
+<p>Document content goes here. iframes can include body tag. Any web linbk or html page can be included in iframe.
+</p>
+<iframe src = "Resume" width="555" height ="200"> Sorry your browser does not support iframes </iframe>
+</body>
+</html>

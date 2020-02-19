@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Different Color Texts</title>
+<h2 font-size="200%" align="center">Different Texts with different colors</h2>
+</head>
+<body>
+<p style="color:Tomato;"> This is a text </p>
+<p style="color:dodgerblue";> This is a text </p>
+<p style="color:#32a852";> This is a text </p>
+<p style="color:rgb(48, 46, 112)";> This is a text </p>
+<p style="color:hsl(277,88%,73%)";> This is a text </p>
+
+</body>
+
+</html>
+
