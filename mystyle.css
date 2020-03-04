@@ -1,24 +1,25 @@
-h1{
-font-family:courier;
-color:red;
+h1 {
+  color: seagreen;
+  font-family:verdana;
+  text-align:center;
+  text-decoration: underline;
+  text-decoration-style: double;
+}
+ img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 h2{
-font-family:verdana;
-color:green;
-}
-h3{
-font-family:sans-serif;
-color:blue;
-}
-h4{
-font-family:serif;
-color:pink;
-}
-h5{
-font-family:times new roman;
-color:yellow;
+  color: powderblue;
+  font-family:verdana;
+  text-align:center;
+  text-decoration: underline;
 }
 p{
-font-weight:bold;
+  font-family:courier;
+  border: 1px solid powderblue;
+  padding: 30px;
 }
 
